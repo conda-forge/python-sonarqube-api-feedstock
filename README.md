@@ -1,11 +1,11 @@
-About python-sonarqube-api
-==========================
+About python-sonarqube-api-feedstock
+====================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/python-sonarqube-api-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/shijl0925/python-sonarqube-api
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/python-sonarqube-api-feedstock/blob/main/LICENSE.txt)
 
 Summary: Python wrapper for the SonarQube and SonarCloud API
 
