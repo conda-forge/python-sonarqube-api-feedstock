@@ -1,5 +1,5 @@
 {% set name = "python-sonarqube-api" %}
-{% set version = "2.0.1" %}
+{% set version = "2.0.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 0c475425899af60df39c67c93192d124e76d2315b8f4ca65aea6fb14416e506c
+  sha256: dd398f72b22464781fe048a16c0c579d261527020a5757cfa777f22f7bbd1308
 
 build:
   noarch: python
